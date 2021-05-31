@@ -1,0 +1,51 @@
+.gallery {
+  height: 250px;
+}
+
+#gallery1 {
+  background-image: url("https://images.unsplash.com/photo-1532393950032-b666e39c29b3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1052&q=80");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#gallery2 {
+  background-image: url("https://images.unsplash.com/photo-1439405326854-014607f694d7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#gallery3 {
+  background-image: url("https://images.unsplash.com/photo-1437622368342-7a3d73a34c8f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1100&q=80");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#gallery4 {
+  background-image: url("https://images.unsplash.com/photo-1557324815-5abd1c66ccfe?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#gallery5 {
+  background-image: url("https://images.unsplash.com/photo-1596081641423-233374bffd54?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#gallery6 {
+  background-image: url("https://images.unsplash.com/photo-1586115457457-b3753fe50cf1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=979&q=80");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#gallery7 {
+  background-image: url("https://images.unsplash.com/photo-1463468217891-c11f48e6310a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=967&q=80");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#gallery8 {
+  background-image: url("https://images.unsplash.com/photo-1604574987139-2f901f79ffc7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#gallery9 {
+  background-image: url("https://images.unsplash.com/photo-1602264836619-094873fa05fc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
